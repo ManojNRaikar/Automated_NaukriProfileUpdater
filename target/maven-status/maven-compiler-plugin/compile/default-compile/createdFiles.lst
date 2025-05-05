@@ -1,0 +1,5 @@
+utils\ConfigReader.class
+pageObject\BasePage.class
+factory\BaseClass.class
+pageObject\ProfilePage.class
+pageObject\LoginPage.class
